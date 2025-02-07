@@ -12,6 +12,6 @@ A highly motivated and success-driven student with a strong foundation in Machin
 🔹 **[Optimizing Football: Predictive Player Position Modelling](#)** – Unlocking Potential: Predictive Analytics in Football.
 
 ## 📫 Get in Touch  
-🔗 [LinkedIn](#www.linkedin.com/in/molnmark04) | 🐦 [Twitter](#) | 📧 Email: alexi@example.com  
+🔗 [LinkedIn](www.linkedin.com/in/molnmark04) | 🐦 [Twitter](#) | 📧 Email: alexi@example.com  
 
 Feel free to explore, contribute, or reach out! 🚀  
