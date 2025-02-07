@@ -9,9 +9,9 @@ A highly motivated and success-driven student with a strong foundation in Machin
 🔹 **[Chatbot Experience Optimization](#)** – Research on chatbot personalization, accuracy, and perceived waiting times in SMEs.  
 🔹 **[Football Match Prediction](#)** – Analyzing EPL data to predict match outcomes.  
 🔹 **[Root Image Analysis](#)** – Identifying and segmenting root structures from labeled images.  
-🔹 **[Opentrons PID Controller](#)** – Implementing precise movement control for liquid-handling robots.
+🔹 **[Optimizing Football: Predictive Player Position Modelling](#)** – Unlocking Potential: Predictive Analytics in Football.
 
 ## 📫 Get in Touch  
-🔗 [LinkedIn](#) | 🐦 [Twitter](#) | 📧 Email: alexi@example.com  
+🔗 [LinkedIn](#www.linkedin.com/in/molnmark04) | 🐦 [Twitter](#) | 📧 Email: alexi@example.com  
 
 Feel free to explore, contribute, or reach out! 🚀  
